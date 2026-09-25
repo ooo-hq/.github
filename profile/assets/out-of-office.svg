@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Out of Office</title>
+  <desc id="desc">A bold white wordmark on black, with Office offset to the right.</desc>
+  <rect width="1200" height="430" fill="#080808"/>
+  <g fill="#fff" font-family="Impact, 'Arial Narrow', 'Helvetica Neue', sans-serif" font-weight="900" font-size="214" letter-spacing="-6">
+    <text x="28" y="195" textLength="810" lengthAdjust="spacingAndGlyphs">OUT OF</text>
+    <text x="265" y="395" textLength="900" lengthAdjust="spacingAndGlyphs">OFFICE</text>
+  </g>
+</svg>
