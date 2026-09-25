@@ -1,7 +1,3 @@
-<p>
-  <img src="https://raw.githubusercontent.com/ooo-hq/.github/main/profile/assets/out-of-office.svg" alt="Out of Office" width="100%">
-</p>
-
 **Independent AI research, software, and media.**
 
 Build it. Test it. Tell it straight.
